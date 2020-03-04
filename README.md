@@ -6,7 +6,7 @@
   Desafio 4: Introdução ao React
 </h3>
 
-<p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
+<p align="center">This is challenge 04 of the [Rocketseat GoStack Bootcamp] (https://rocketseat.com.br/bootcamp) developed with the following technologies:</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
@@ -63,19 +63,19 @@ class PostList extends Component {
       {
         id: 1,
         author: {
-          name: "Julio Alcantara",
-          avatar: "http://url-da-imagem.com/imagem.jpg"
+          name: 'Julio Alcantara',
+          avatar: 'http://url-da-imagem.com/imagem.jpg'
         },
-        date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+        date: '04 Jun 2019',
+        content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
         comments: [
           {
             id: 1,
             author: {
-              name: "Diego Fernandes",
-              avatar: "http://url-da-imagem.com/imagem.jpg"
+              name: 'Diego Fernandes',
+              avatar: 'http://url-da-imagem.com/imagem.jpg'
             },
-            content: "Conteúdo do comentário"
+            content: 'Conteúdo do comentário'
           }
         ]
       },
