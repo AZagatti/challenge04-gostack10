@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#rocket-application">Aplication</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-license">License</a>
 </p>
 
 ## :rocket: Application
