@@ -1,0 +1,23 @@
+div.header-container {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  background: #4a90e2;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+
+img.facebook {
+  margin-left: 3%;
+  cursor: pointer;
+}
+
+p.perfil {
+  margin-right: 3%;
+  cursor: pointer;
+}

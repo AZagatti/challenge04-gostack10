@@ -1,0 +1,11 @@
+div.postlist-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+}
+
+div.postlist-list {
+  width: 70%;
+}

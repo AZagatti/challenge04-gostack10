@@ -1,0 +1,42 @@
+div.comment-container + div {
+  margin-top: 15px;
+}
+
+div.comment-avatar-comment {
+  padding: 15px;
+  display: flex;
+}
+
+p.comment-name {
+  font-weight: bold;
+  display: inline;
+}
+
+p.comment-content {
+  margin-left: 5px;
+  display: inline;
+}
+
+div.comment-area {
+  padding: 15px 20px;
+  border-radius: 25px;
+  background-color: #eeeeee;
+  line-height: 22px;
+}
+
+p.comment-inline-interaction {
+  display: inline;
+  color: blue;
+  cursor: pointer;
+}
+
+p.comment-inline-date {
+  display: inline;
+  color: #ccc;
+  cursor: pointer;
+}
+
+div.comment-interactions {
+  margin-top: -10px;
+  margin-left: 80px;
+}
